@@ -5,7 +5,7 @@
   "img": "image-1614542690070.jpg",
   "html1": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><strong>Giriş Opsiyonları</strong></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Motorsuz Giriş Mili</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Motorsuz PAM Flanşlı (IEC)</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Motorlu</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>PAM Flanşlı Motorlu (IEC)</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
   "aktif": true,
-  "modelid": "603bd459be427026d4a23c95",
+  "modelId": "603bd459be427026d4a23c95",
   "tarih": {
     "$date": "2021-02-28T20:04:50.434Z"
   }
