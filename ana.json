@@ -1,35 +1,35 @@
 [{
-  "_id":  "6039fe43f59edc30286f9a9b",
+  "id":  "6039fe43f59edc30286f9a9b",
   "isim": "Redüktör",
   "aciklama": "Redüktörler",
   "img": "image-1614413378794.jpg",
   "html1": "<h1>MOTOR&nbsp;</h1>\r\n"
 },{
-  "_id":  "603a3a7afee2920090a61e0d",
+  "id":  "603a3a7afee2920090a61e0d",
   "isim": "AC/DC Motorlar",
   "aciklama": "AC/DC motorlar",
   "img": "image-1614428793842.jpg",
   "html1": "<h1>AC/DC MOTORLAR/h1>\n"
 },{
-  "_id": "603bbf727ca1031d9ccf6f24",
+  "id": "603bbf727ca1031d9ccf6f24",
   "isim": "Vibrasyon Motorları",
   "aciklama": "Titreşi Motorları",
   "img": "image-1614530649805.jpg",
   "html1": "<p>Vibrasyon MOTORLARI</p>\r\n"
 },{
-  "_id":  "603bc715be427026d4a23c85",
+  "id":  "603bc715be427026d4a23c85",
   "isim": "Elektro Manyetik Fren",
   "aciklama": "EMF",
   "img": "image-1614530325048.jpg",
   "html1": "<p>Elektro Manyetik Frenler</p>\r\n"
 },{
-  "_id":  "603bc7c3be427026d4a23c86",
+  "id":  "603bc7c3be427026d4a23c86",
   "isim": "Kaplin",
   "aciklama": "Kaplin",
   "img": "image-1614530498735.jpg",
   "html1": "<p>Kaplin</p>\r\n"
 },{
-  "_id":  "603bc824be427026d4a23c87",
+  "id":  "603bc824be427026d4a23c87",
   "isim": "Sürücüler",
   "aciklama": "Sürücüler",
   "img": "image-1614530595733.jpg",
