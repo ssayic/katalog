@@ -4,13 +4,13 @@
   "aciklama": "Omega AÇIKLAMA",
   "img": "image-1614531303957.jpg",
   "html1": "<h1>OMEGA MOTOR</h1>\r\n",
-  "anaId":  "603a3a7afee2920090a61e0d"
+  "anaid":  "603a3a7afee2920090a61e0d"
 },{
   "_id":  "603a4dc7e0d38826a8420e14",
   "isim": "IMAK",
   "aciklama": "IMAK REDÜKTÖR",
   "img": "image-1614435884410.JPG",
-  "anaId":  "6039fe43f59edc30286f9a9b",
+  "anaid":  "6039fe43f59edc30286f9a9b",
   "html1": "<p>imak red&uuml;kt&ouml;r html1</p>\r\n"
 },{
   "_id":  "603a56afd750ee0bb8d8ee56",
@@ -18,42 +18,42 @@
   "aciklama": "DİŞSAN redüktör",
   "img": "image-1614436015561.JPG",
   "html1": "<p>DİŞSAN RED&Uuml;KT&Ouml;R</p>\r\n",
-  "anaId":  "6039fe43f59edc30286f9a9b"
+  "anaid":  "6039fe43f59edc30286f9a9b"
 },{
   "_id":  "603bbf9f7ca1031d9ccf6f25",
   "isim": "Daf",
   "aciklama": "Motor Firenleri",
   "img": "image-1614528415348.jpg",
   "html1": "<p>motor frenleri</p>\r\n",
-  "anaId": "603bc715be427026d4a23c85"
+  "anaid": "603bc715be427026d4a23c85"
 },{
   "_id": "603bc9b3be427026d4a23c88",
   "isim": "KORMAS",
   "aciklama": "KORMAS MOTOR",
   "img": "image-1614530995166.png",
   "html1": "",
-  "anaId": "603a3a7afee2920090a61e0d"
+  "anaid": "603a3a7afee2920090a61e0d"
 },{
   "_id":  "603bca59be427026d4a23c89",
   "isim": "LİMÖZ",
   "aciklama": "LİMÖZ",
   "img": "image-1614531161447.jpg",
   "html1": "",
-  "anaId":  "6039fe43f59edc30286f9a9b"
+  "anaid":  "6039fe43f59edc30286f9a9b"
 },{
   "_id": "603bca81be427026d4a23c8a",
   "isim": "PDS",
   "aciklama": "PDS redüktör",
   "img": "image-1614531201630.jpg",
   "html1": "",
-  "anaId": "6039fe43f59edc30286f9a9b"
+  "anaid": "6039fe43f59edc30286f9a9b"
 },{
   "_id": "603bcb20be427026d4a23c8c",
   "isim": "ELK",
   "aciklama": "ELK",
   "img": "image-1614531360223.jpg",
   "html1": "",
-  "anaId": "603a3a7afee2920090a61e0d"
+  "anaid": "603a3a7afee2920090a61e0d"
 },{
   "_id":  "603bcb3ebe427026d4a23c8d",
   "isim": "EMTAŞ",
@@ -67,7 +67,7 @@
   "aciklama": "EMTAŞ",
   "img": "image-1614531465973.jpg",
   "html1": "",
-  "anaId": "603bbf727ca1031d9ccf6f24"
+  "anaid": "603bbf727ca1031d9ccf6f24"
   
 },{
   "_id": "603bcbcebe427026d4a23c8f",
@@ -75,28 +75,26 @@
   "aciklama": "OLİ",
   "img": "image-1614531534145.jpg",
   "html1": "",
-  "anaId": "603bbf727ca1031d9ccf6f24"
+  "anaid": "603bbf727ca1031d9ccf6f24"
 },{
   "_id": "603bcc27be427026d4a23c90",
   "isim": "DERELİ",
   "aciklama": "DERELİ",
   "img": "image-1614531623459.jpg",
   "html1": "",
-  "anaId": "603bc715be427026d4a23c85"
+  "anaid": "603bc715be427026d4a23c85"
 },{
   "_id":  "603bcc5dbe427026d4a23c91",
   "isim": "DİŞSAN",
   "aciklama": "DİŞSAN",
   "img": "image-1614531677439.jpg",
   "html1": "",
-  "anaId": {
-    "$oid": "603bc7c3be427026d4a23c86"
-  }
+  "anaid": "603bc7c3be427026d4a23c86"
 },{
   "_id": "603bccbcbe427026d4a23c92",
   "isim": "YILMAZ",
   "aciklama": "YILMAZ",
   "img": "image-1614531772155.jpg",
   "html1": "",
-  "anaId": "603bc824be427026d4a23c87"
+  "anaid": "603bc824be427026d4a23c87"
 }]
