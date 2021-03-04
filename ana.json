@@ -1,19 +1,19 @@
 [
   {
-    "id": "6039fe43f59edc30286f9a9b",    
-    "isim": "REDÜKTÖR",
+    "id": "6039fe43f59edc30286f9a9b",
+    "isim": "Redüktör",
     "aciklama": "Redüktörler",
-    "gorsel": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765135726.jpg",
-    "htmlkisa": "<h1>MOTOR&nbsp;</h1>\r\n",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765135726.jpg",
+    "html1": "<h1>MOTOR&nbsp;</h1>\r\n",
     "userId": "600b534cb55e4d05b0e62bf9",
     "__v": 0
   },
   {
     "id": "603a3a7afee2920090a61e0d",
-    "isim": "AC/DC MOTORLAR",
+    "isim": "AC/DC Motorlar",
     "aciklama": "AC/DC motorlar",
-    "gorsel": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614428793842.jpg",
-    "htmlkisa": "<h1>AC/DC MOTORLAR/h1>\n",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765159109.jpg",
+    "html1": "<h1>AC/DC MOTORLAR/h1&gt;</h1>\r\n",
     "userId": "600b534cb55e4d05b0e62bf9",
     "__v": 0
   },
@@ -21,8 +21,8 @@
     "id": "603bbf727ca1031d9ccf6f24",
     "isim": "Vibrasyon Motorları",
     "aciklama": "Titreşi Motorları",
-    "gorsel": "image-1614530649805.jpg",
-    "htmlkisa": "<p>Vibrasyon MOTORLARI</p>\r\n",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765187367.jpg",
+    "html1": "<p>Vibrasyon MOTORLARI</p>\r\n",
     "userId": "600b534cb55e4d05b0e62bf9",
     "__v": 0
   },
@@ -30,8 +30,8 @@
     "id": "603bc715be427026d4a23c85",
     "isim": "Elektro Manyetik Fren",
     "aciklama": "EMF",
-    "gorsel": "image-1614530325048.jpg",
-    "htmlkisa": "<p>Elektro Manyetik Frenler</p>\r\n",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765218644.jpg",
+    "html1": "<p>Elektro Manyetik Frenler</p>\r\n",
     "userId": "600b534cb55e4d05b0e62bf9",
     "__v": 0
   },
@@ -39,8 +39,8 @@
     "id": "603bc7c3be427026d4a23c86",
     "isim": "Kaplin",
     "aciklama": "Kaplin",
-    "gorsel": "image-1614530498735.jpg",
-    "htmlkisa": "<p>Kaplin</p>\r\n",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765246012.jpg",
+    "html1": "<p>Kaplin</p>\r\n",
     "userId": "600b534cb55e4d05b0e62bf9",
     "__v": 0
   },
@@ -48,8 +48,8 @@
     "id": "603bc824be427026d4a23c87",
     "isim": "Sürücüler",
     "aciklama": "Sürücüler",
-    "gorsel": "image-1614530595733.jpg",
-    "htmlkisa": "<p>S&uuml;r&uuml;c&uuml;ler</p>\r\n",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765287634.jpg",
+    "html1": "<p>S&uuml;r&uuml;c&uuml;ler</p>\r\n",
     "userId": "600b534cb55e4d05b0e62bf9",
     "__v": 0
   }

@@ -1,100 +1,119 @@
-[{
-  "id":  "603a39fcfee2920090a61e0c",
-  "isim": "Omega",
-  "aciklama": "Omega AÇIKLAMA",
-  "gorsel": "image-1614531303957.jpg",
-  "htmlkisa": "<h1>OMEGA MOTOR</h1>\r\n",
-  "anaid":  "603a3a7afee2920090a61e0d"
-},{
-  "id":  "603a4dc7e0d38826a8420e14",
-  "isim": "IMAK",
-  "aciklama": "IMAK REDÜKTÖR",
-  "gorsel": "image-1614435884410.JPG",
-  "anaid":  "6039fe43f59edc30286f9a9b",
-  "htmlkisa": "<p>imak red&uuml;kt&ouml;r html1</p>\r\n"
-},{
-  "id":  "603a56afd750ee0bb8d8ee56",
-  "isim": "DİŞSAN",
-  "aciklama": "DİŞSAN redüktör",
-  "gorsel": "image-1614436015561.JPG",
-  "htmlkisa": "<p>DİŞSAN RED&Uuml;KT&Ouml;R</p>\r\n",
-  "anaid":  "6039fe43f59edc30286f9a9b"
-},{
-  "id":  "603bbf9f7ca1031d9ccf6f25",
-  "isim": "Daf",
-  "aciklama": "Motor Firenleri",
-  "gorsel": "image-1614528415348.jpg",
-  "htmlkisa": "<p>motor frenleri</p>\r\n",
-  "anaid": "603bc715be427026d4a23c85"
-},{
-  "id": "603bc9b3be427026d4a23c88",
-  "isim": "KORMAS",
-  "aciklama": "KORMAS MOTOR",
-  "gorsel": "image-1614530995166.png",
-  "htmlkisa": "",
-  "anaid": "603a3a7afee2920090a61e0d"
-},{
-  "id":  "603bca59be427026d4a23c89",
-  "isim": "LİMÖZ",
-  "aciklama": "LİMÖZ",
-  "gorsel": "image-1614531161447.jpg",
-  "htmlkisa": "",
-  "anaid":  "6039fe43f59edc30286f9a9b"
-},{
-  "id": "603bca81be427026d4a23c8a",
-  "isim": "PDS",
-  "aciklama": "PDS redüktör",
-  "gorsel": "image-1614531201630.jpg",
-  "htmlkisa": "",
-  "anaid": "6039fe43f59edc30286f9a9b"
-},{
-  "id": "603bcb20be427026d4a23c8c",
-  "isim": "ELK",
-  "aciklama": "ELK",
-  "gorsel": "image-1614531360223.jpg",
-  "htmlkisa": "",
-  "anaid": "603a3a7afee2920090a61e0d"
-},{
-  "id":  "603bcb3ebe427026d4a23c8d",
-  "isim": "EMTAŞ",
-  "aciklama": "EMTAŞ",
-  "gorsel": "image-1614531390285.jpg",
-  "htmlkisa": "",
-  "anaId": "603a3a7afee2920090a61e0d"
-},{
-  "id":  "603bcb8abe427026d4a23c8e",
-  "isim": "EMTAŞ",
-  "aciklama": "EMTAŞ",
-  "gorsel": "image-1614531465973.jpg",
-  "htmlkisa": "",
-  "anaid": "603bbf727ca1031d9ccf6f24"
-  
-},{
-  "id": "603bcbcebe427026d4a23c8f",
-  "isim": "OLİ",
-  "aciklama": "OLİ",
-  "gorsel": "image-1614531534145.jpg",
-  "htmlkisa": "",
-  "anaid": "603bbf727ca1031d9ccf6f24"
-},{
-  "id": "603bcc27be427026d4a23c90",
-  "isim": "DERELİ",
-  "aciklama": "DERELİ",
-  "gorsel": "image-1614531623459.jpg",
-  "htmlkisa": "",
-  "anaid": "603bc715be427026d4a23c85"
-},{
-  "id":  "603bcc5dbe427026d4a23c91",
-  "isim": "DİŞSAN",
-  "aciklama": "DİŞSAN",
-  "gorsel": "image-1614531677439.jpg",
-  "htmlkisa": "",
-  "anaid": "603bc7c3be427026d4a23c86"
-},{
-  "id": "603bccbcbe427026d4a23c92",
-  "isim": "YILMAZ",
-  "aciklama": "YILMAZ",
-  "gorsel": "image-1614531772155.jpg",
-  "htmlkisa": "",
-  "anaid": "603bc824be427026d4a23c87"
-}]
+[
+  {
+    "id": "603a39fcfee2920090a61e0c",    
+    "isim": "Omega",
+    "aciklama": "Omega AÇIKLAMA",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765391412.jpg",
+    "html1": "<h1>OMEGA MOTOR</h1>\r\n",
+    "anaid": "603a3a7afee2920090a61e0d",
+    "__v": 0
+  },
+  {
+    "id": "603a4dc7e0d38826a8420e14",
+    "isim": "IMAK",
+    "aciklama": "IMAK REDÜKTÖR",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765314138.jpg",
+    "anaid": "6039fe43f59edc30286f9a9b",
+    "__v": 0,
+    "html1": "<p>imak red&uuml;kt&ouml;r html1</p>\r\n"
+  },
+  {
+    "id": "603a56afd750ee0bb8d8ee56",
+    "isim": "DİŞSAN",
+    "aciklama": "DİŞSAN redüktör",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765333478.jpg",
+    "html1": "<p>DİŞSAN RED&Uuml;KT&Ouml;R</p>\r\n",
+    "anaid": "6039fe43f59edc30286f9a9b",
+    "__v": 0
+  },
+  {
+    "id": "603bbf9f7ca1031d9ccf6f25",
+    "isim": "DERELİ",
+    "aciklama": "Elektro Manyetik Fren",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765732305.jpg",
+    "html1": "<h1>Elektro Manyetik Fren</h1>\r\n\r\n<ul>\r\n</ul>\r\n",
+    "anaid": "603bc715be427026d4a23c85",
+    "__v": 0
+  },
+  {
+    "id": "603bc9b3be427026d4a23c88",
+    "isim": "KORMAS",
+    "aciklama": "KORMAS MOTOR",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765411714.jpg",
+    "html1": "",
+    "anaid": "603a3a7afee2920090a61e0d",
+    "__v": 0
+  },
+  {
+    "id": "603bca59be427026d4a23c89",
+    "isim": "LİMÖZ",
+    "aciklama": "LİMÖZ",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765353284.jpg",
+    "html1": "",
+    "anaid": "6039fe43f59edc30286f9a9b",
+    "__v": 0
+  },
+  {
+    "id": "603bca81be427026d4a23c8a",
+    "isim": "PDS",
+    "aciklama": "PDS redüktör",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765370907.jpg",
+    "html1": "",
+    "anaid": "6039fe43f59edc30286f9a9b",
+    "__v": 0
+  },
+  {
+    "id": "603bcb20be427026d4a23c8c",
+    "isim": "ELK",
+    "aciklama": "ELK",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765433651.jpg",
+    "html1": "",
+    "anaid": "603a3a7afee2920090a61e0d",
+    "__v": 0
+  },
+  {
+    "id": "603bcb3ebe427026d4a23c8d",
+    "isim": "EMTAŞ",
+    "aciklama": "EMTAŞ",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765454907.jpg",
+    "html1": "",
+    "anaid": "603a3a7afee2920090a61e0d",
+    "__v": 0
+  },
+  {
+    "id": "603bcb8abe427026d4a23c8e",
+    "isim": "EMTAŞ",
+    "aciklama": "EMTAŞ",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765478122.jpg",
+    "html1": "",
+    "anaid": "603bbf727ca1031d9ccf6f24",
+    "__v": 0
+  },
+  {
+    "id": "603bcbcebe427026d4a23c8f",
+    "isim": "OLİ",
+    "aciklama": "OLİ",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765605282.jpg",
+    "html1": "",
+    "anaid": "603bbf727ca1031d9ccf6f24",
+    "__v": 0
+  },
+  {
+    "id": "603bcc5dbe427026d4a23c91",
+    "isim": "DİŞSAN",
+    "aciklama": "DİŞSAN",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765836105.jpg",
+    "html1": "",
+    "anaid": "603bc7c3be427026d4a23c86",
+    "__v": 0
+  },
+  {
+    "id": "603bccbcbe427026d4a23c92",
+    "isim": "YILMAZ",
+    "aciklama": "YILMAZ",
+    "img": "https://raw.githubusercontent.com/ssayic/katalog/main/image-1614765855469.jpg",
+    "html1": "",
+    "anaid": "603bc824be427026d4a23c87",
+    "__v": 0
+  }
+]
