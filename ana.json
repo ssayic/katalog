@@ -1,7 +1,7 @@
 [
   {
     "id": "6039fe43f59edc30286f9a9b",    
-    "isim": "Redüktör",
+    "isim": "REDÜKTÖR",
     "aciklama": "Redüktörler",
     "gorsel": "http://localhost:3000/img/image-1614413378794.jpg",
     "htmlkisa": "<h1>MOTOR&nbsp;</h1>\r\n",
@@ -10,7 +10,7 @@
   },
   {
     "id": "603a3a7afee2920090a61e0d",
-    "isim": "AC/DC Motorlar",
+    "isim": "AC/DC MOTORLAR",
     "aciklama": "AC/DC motorlar",
     "gorsel": "http://localhost:3000/img/image-1614428793842.jpg",
     "htmlkisa": "<h1>AC/DC MOTORLAR/h1>\n",
